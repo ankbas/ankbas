@@ -1,36 +1,10 @@
-# 👋 Hey, I'm Ankit Basnet
+### 👋 Hey, I’m Ankit Basnet  
+I’m a senior Computer Science student at East Central University, graduating in December 2025.  
+I enjoy building projects that combine clean code with practical ideas — from console-based Java apps to web tools that solve real problems.  
 
-I'm a senior Computer Science student at East Central University, graduating in December 2025.  
-I enjoy building small projects, learning new technologies, and improving my problem-solving skills through code.
+- 🌱 Currently learning Java, SQL, and backend programming.  
+- 🔍 Looking for entry-level software developer or Java developer opportunities.  
+- 💡 Passionate about problem-solving, APIs, and learning modern frameworks.  
+- ⚡ Fun fact: I love cars and enjoy exploring how technology powers innovation in the auto industry.  
 
-Right now, I’m focusing on **Java development** and backend programming while preparing for my **OPT** period after graduation.  
-Most of my current work includes writing clean, simple code and experimenting with real-world concepts I’ve learned in class.
-
----
-
-### 🧠 What I'm Learning
-- Java and Object-Oriented Programming  
-- Data Structures and Algorithms  
-- SQL and Database Design  
-- Git and Version Control  
-
----
-
-### 🛠️ Tools & Technologies
-Java • Python • SQL • Git • HTML • CSS • VS Code • IntelliJ IDEA
-
----
-
-### 📂 Projects
-- **Java Grade Calculator** – Console app to calculate averages and grades  
-- **Bank Account App** – Simple banking program with deposit/withdrawal features  
-- **Weather App** – Fetches real-time weather data using an API  
-
----
-
-### 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/ankit-basnet-3b420a2aa/)  
-
----
-
-Thanks for visiting my profile! I’m always open to learning and connecting with others in tech.
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/ankit-basnet-3b420a2aa/) | [GitHub](https://github.com/ankbas)
