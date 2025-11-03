@@ -8,3 +8,7 @@ I enjoy building projects that combine clean code with practical ideas — from 
 - ⚡ Fun fact: I love cars and enjoy exploring how technology powers innovation in the auto industry.  
 
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/ankit-basnet-3b420a2aa/) | [GitHub](https://github.com/ankbas)
+---
+
+### 📊 GitHub Stats
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankbas&show_icons=true&theme=github_dark)
